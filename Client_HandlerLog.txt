@@ -1,0 +1,254 @@
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+YEs
+I am in the loop.
+I am in the loop.
+Please enter the item ID you want to borrow: 
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+YEs
+I am in the loop.
+I am in the loop.
+The call is being made to the server...
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The item has been added to the library.
+The call to the remote server has been made 
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+YEs
+I am in the loop.
+I am in the loop.
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+Yes
+I am in the loop.
+I am in the loop.
+The call is being made to the server...
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The item has been added to the library.
+The call to the remote server has been made 
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+YEs
+I am in the loop.
+I am in the loop.
+Thank-you for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO MCGILL UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+You are in the waitlist section: 
+Calling the waitlist procedure in the server
+You have been sucessfully waitlisted for the item MCG1000
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+YEs
+I am in the loop.
+I am in the loop.
+Thank-you for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want want to return
+The call is being made to the server...
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The book has been successfully returned
+
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The book has been successfully returned
+
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Yes
+I am in the loop.
+I am in the loop.
+Thank-you for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+Please enter your ID: 
+******WELCOME TO MCGILL UNIVERSITY LIBRARY******
+Please enter the item name you want to search for in the library: 
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Yes
+I am in the loop.
+I am in the loop.
+Please enter the item ID you want want to return
+The call is being made to the server...
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO MCGILL UNIVERSITY LIBRARY******
+Please enter the item name you want to search for in the library: 
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Yes
+I am in the loop.
+I am in the loop.
+Please enter the item name you want to search for in the library: 
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO MCGILL UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+No
+I am in the loop.
+Thanks for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+Yes
+I am in the loop.
+I am in the loop.
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+You are in the waitlist section: 
+Calling the waitlist procedure in the server
+You have been sucessfully waitlisted for the item MCG1000
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO MCGILL UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+No
+I am in the loop.
+Thanks for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+Yes
+I am in the loop.
+I am in the loop.
+The call is being made to the server...
+The new book you want to borrow is currently not available we cannot process the exchange
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+Welcome to the library Management System
+Please enter your ID: 
+Welcome to the library Management System
+Please enter your ID: 
+Welcome to the library Management System
+Please enter your ID: 
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+You are in the waitlist section: 
+Calling the waitlist procedure in the server
+You have been sucessfully waitlisted for the item MCG9001
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+No
+I am in the loop.
+Thanks for using our services. :)
+Welcome to the library Management System
+Please enter your ID: 
+Welcome to the library Management System
+Please enter your ID: 
+******WELCOME TO CONCORDIA UNIVERSITY LIBRARY******
+Please enter the item ID you want to borrow: 
+Please enter the number of days you want to borrow this for: 
+The call is being made to the server...
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+
+I am in the loop.
+Your choice was invalid please enter a valid exit code.
+
+Enter Yes for continue doing more operations and No to quit.
+
+Yes
+I am in the loop.
+I am in the loop.
+The call is being made to the server...
+The new book you want to borrow is currently not available we cannot process the exchange
+Enter "Yes" to continue doing more operations and "No" to quit.: 
+YEs
+I am in the loop.
+I am in the loop.
+Please enter the item ID you want want to return
+The call is being made to the server...
+The item has been added to the library.
+
+The item has been added to the library.
+
+Enter "Yes" to continue doing more operations and "No" to quit.: 
